@@ -1,5 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
+import Navbar from "./components/Navbar"
+import Portfolio from "./components/Portfolio"
+import Contact from "./components/Contact"
+import About from "./components/About"
+
 
 function App() {
   return (
@@ -8,9 +13,9 @@ function App() {
       <div className="container-fluid p-0">
         <About />
         <hr className="m-0"/>
-        <Projects />
+        <Portfolio />
         <hr className="m-0" />
-        <Skills />
+        <Contact />
         <hr className="m-0" />
         {/* <Challenges /> */}
         <hr className="m-0"/>

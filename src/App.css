@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+/*BACKGROUND IMAGE OF SURF*/
+body {
+  background: url(https://viewbug_com.s3.amazonaws.com/media/images/contests/contest6917_banner.png)
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/*STYLING FOR ABOUT ME CARD*/ 
+.card {   
+
+background-color: rgb(150, 41, 14);
+color: white;
+font-size: 18; 
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card-title {
+font-weight: bolder;
+text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/*STYLES THE THUBNAILS IN THE PORTFOLIO TO DEEP RED BACKGROUND COLOR*/
+.img-thumbnail {
+background-color: rgb(150, 41, 14);
+height: 200px;
+width: 400px;
 }
 
-.App-link {
-  color: #61dafb;
+/*STYLE FOR CARD CONTENT WHITE TEXT WITH BOLD FONT*/
+.form-group {
+color: white;
+font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/*MOVES CONTENT OVER TO THE RIGHT FROM LEFT EDGE JUST A SMIDGE SO IT IS NOT FLUSH AGAINST THE LEFT PAGE BOARDER*/
+h1 {
+color: white;
+  margin: 20px;
+}
+
+/*STYLE FOR PARAGRAPHS TO WHITE TEXT WITH FINT SIZE, ALIGNMENT, AND MARGIN*/
+p {
+color: white;
+font-size: 20px;
+text-align: justify;
+margin: 20px;
+
+}
+
+/*ADD A TOP MARGIN TO THE CONTACT FORM*/
+.form-group {
+margin-top: 20px;  
 }
