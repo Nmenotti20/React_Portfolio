@@ -1,4 +1,5 @@
 # React_Portfolio
+
 React_Portfolio
 
 [![GitHub followers](https://img.shields.io/github/followers/Nmenotti20?label=Follow&style=social)](https://github.com/Nmenotti20) [![project-top-language](https://img.shields.io/github/languages/top/Nmenotti20/React_Portfolio?color=yellow)](https://github.com/Nmenotti20/React_Portfolio) [![license](https://img.shields.io/badge/License-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -16,15 +17,13 @@ React_Portfolio
 
 ### Project Description
 
-Small Businesses will be able to create a Local Small Business Owner Account and post their business logos, contact information, location, menus and marketing information as well as show their location on a map on the app so that consumers can find and support them by bringing them business.
- 
-Consumers will be able to create a Consumer Account to search for Local Small Businesses, post photos, and reviews and comment on small businesses experiences so that other consumers may see the reviews and determine if they would like to support that business also. 
+
 
 #### User Story
 
-As a consumer,
-I want an app that will help me find local Small Businesses near me
-so that I can support them with business as opposed to big box retailers
+As a candidate for web developement
+I want to creating a portfolio using React 
+So that I can set myself apart from other developers whose portfolios do not use some of the latest technologies.
 
 #### Project Links:
 
@@ -39,9 +38,7 @@ so that I can support them with business as opposed to big box retailers
 
 ### Usage
 
-Small Businesses will be able to create a Local Small Business Owner Account and post their business logos, contact information, location, menus and marketing information as well as show their location on a map on the app so that consumers can find and support them by bringing them business.
- 
-Consumers will be able to create a Consumer Account to search for Local Small Businesses, post photos, and reviews and comment on small businesses experiences so that other consumers may see the reviews and determine if they would like to support that business also. 
+
 
 ### Credits
 
