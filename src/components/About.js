@@ -1,5 +1,7 @@
 import React from 'react';
-// import Resume from ''
+import Headshot from './assets/NickMenotti_Headshot.jpg';
+import Resume from './assets/Nick Menotti - Resume - Full Stack Web Developer - 11.21.2020.pdf';
+
 
 function About() {
     return (
@@ -15,8 +17,8 @@ function About() {
       
               {/* <!--BOOTSTRAP CARD--> */}
               <div className="card text-center" style={{ width: "25rem" }}>
-                <img src="./assets/NickMenotti_Headshot.jpg" className="card-img-top" alt="Nick Menotti"></img>
-      
+                <img src={Headshot} className="card-img-top" alt="Nick Menotti"></img>
+              
                 <div className="card-body">
                   <h5 className="card-title"><br></br>Nick Menotti</h5>
                   San Diego, CA<br></br>
